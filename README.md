@@ -1,5 +1,3 @@
-This repo will be made public under `https://github.com/LDSSA/hackathon-3-challenge/` on the day of the hackathon. Until then, the instructors can iterate on it here.
-
 # hackathon-3-challenge
 
 In this repository you have the following:
